@@ -1,3 +1,4 @@
+![logo](https://www.canva.com/design/DAFuWaJV3Pk/P3sJw_jR0y-8IFTLK-8D_w/edit?utm_content=DAFuWaJV3Pk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1 align="center">Hi 👋, I'm Vaibhav Salunkhe</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
