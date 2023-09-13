@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAFuWZLdDys/T4cYRoVqPHku2MQvcLfZwA/view?utm_content=DAFuWZLdDys&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![logo]([https://www.canva.com/design/DAFuWZLdDys/T4cYRoVqPHku2MQvcLfZwA/view?utm_content=DAFuWZLdDys&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://github.com/vaprsa/vaprsa/blob/main/Black%20Modern%20Graphic%20Designer%20LinkedIn%20Banner.png))
 <h1 align="center">Hi 👋, I'm Vaibhav Salunkhe</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
